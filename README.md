@@ -22,7 +22,7 @@ I am a INTJ and a Red/Yellow type of personality person, what this means is I'm 
 
 ## Who am I?
 ### Non-work
-I currently Live in Johannesburg, South Africa, but soon will be moving back to my home city of Cape Town.
+I currently Live in Johannesburg, South Africa, with my Wife and two cat children but soon we will be moving back to my home city of Cape Town.
 My hobbies include playing World of Warcraft (EU-Dunemaul, Horde!!), Reading fantasy books and playing jazz/blues guitar.
 
 ### Work
@@ -32,7 +32,16 @@ Long story short is that give me a task and I will figure it out and if I get st
 
 ## Goals
 ### Learning goals
-What do you want to learn? For example — if you are a software developer and want to
-learn more about a particular area in software, like performance or security, let your
-team know that. This could help your project lead assign you tasks that fit your goals.
+after spending a lot of time jumping around with different technolgoies and stacks, now I would like to spend some time deepinging my knowledge base and skills in Front-end engineering with a strong foot in the Cloud, thus the following technologies Is what I am to be focusing on:
+- React/React Native
+- Vue
+- Google Cloud
+- Azure/AWS - still deciding which one to do next, might get certified in all three
+- Python
+
 ### Career goals
+I would love to see myself one day as a Frontend engineering team leader and being responsible for my colleagues and our goals.
+This would even include meeting clients to get requirements and making sure my team can run with them from start to finish and all the technical implementations that go with it.
+
+## You can lean on me to …
+I'm usually quite a bulldog on getting things done, so count on me on getting a task over the line or to drop what I'm doing if emergencies arise and taken care of properly. I'm never averse to getting my hands dirty and jumping into the thick of things.
