@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Mbotes/Mbotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# README for Michael Botes
-Hello everyone! 👋 
+#  Hi there 👋
 My name is Michael Botes(He/Him) but everyone I know has taken to calling me Boats ⛵. 
 I am a INTJ and a Red/Yellow type of personality person, what this means is I'm a highly self motivated person that loves getting things done as they arrive, and genuinely have fun with getting everyone else involved in the process.
 
