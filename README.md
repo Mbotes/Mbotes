@@ -14,18 +14,18 @@ Here are some ideas to get you started:
 -->
 
 #  Hi there 👋
-My name is Michael Botes(He/Him) but everyone I know has taken to calling me Boats ⛵. 
-I am a INTJ and a Red/Yellow type of personality person, what this means is I'm a highly self motivated person that loves getting things done as they arrive, and genuinely have fun with getting everyone else involved in the process.
+My name is Michael Botes(He/Him) but everyone calls me Boats ⛵. 
+I am an [INTJ](https://www.16personalities.com/intj-personality) and [Red/Yellow](https://www.glurecruit.co.uk/red-blue-green-yellow-personality-type/) personality type, what this means is I'm a highly self motivated person that loves getting things done as they arrive, and genuinely have fun with getting everyone else involved in the process.
 
 ## Who am I?
 ### Non-work
-I currently Live in Johannesburg, South Africa, with my Wife and two cat children but soon we will be moving back to my home city of Cape Town.
-My hobbies include playing World of Warcraft (EU-Dunemaul, Horde!!), Reading fantasy books and playing jazz/blues guitar.
+I currently Live in Cape-Town, South Africa, after having lived in Johannesburg the last 3 years, with my Wife and three cat children.
+My hobbies include gaming, used to raid World of Warcraft on Sunday and Monday nights, Reading fantasy books and playing jazz/blues guitar.
 
 ### Work
-I am a bit of a curious badger, I started out as a front-end developer and found myself being fascinated by just about every aspect of web development, so I would find myself scratching and digging relentlessly at things until I slowly figured it out, this has led to me having a pretty broad comfort zone but not really having profoundly deep knowledge in a particular field, I definitely have a stronger side routed in Front end engineering and have a big fascination for cloud technology, and thus have quite a bit of skills in Google Cloud & Kubernetes but at the same time can get my hands dirty in Azure Devops for example. 
+I am a bit of a curious badger, I started out as a front-end developer and found myself being fascinated by just about every aspect of web development, so I would end up scratching and digging relentlessly at things until I slowly figured it out, this has led to me having a pretty broad comfort zone but not really having profoundly deep knowledge in a particular field, I definitely have a higher proficiency in Front-end engineering and have a big fascination for cloud technology, and thus have quite a bit of skills in Google Cloud & Kubernetes but at the same time can get my hands dirty in Azure Devops for example. 
 
-Long story short is that give me a task and I will figure it out and if I get stuck then I can get it to the right people to help me finish it and learn along the way.
+Long story short is that give me a task and I will figure it out and if I get stuck, I can find the right people to help me finish it and learn along the way.
 
 ## Goals
 ### Learning goals
